@@ -1,0 +1,3 @@
+# BadModBot
+
+A bot
